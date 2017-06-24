@@ -4,7 +4,8 @@
   "description": "",
   "main": "client.js",
   "dependencies": {
-    "bootstrap": "^3.3.7"
+    "bootstrap": "^3.3.7",
+    "ws": "^3.0.0"
   },
   "devDependencies": {},
   "scripts": {
